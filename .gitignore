@@ -1,0 +1,3 @@
+# Workfiles
+.terraform.lock.hcl
+.terraform/

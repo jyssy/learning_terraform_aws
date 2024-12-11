@@ -29,4 +29,3 @@ resource "aws_instance" "app_server" {
     Name = var.instance_name
   }
 }
-
